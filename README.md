@@ -16,4 +16,6 @@ This contest is only open to brock students.  Only submissions recieved from a b
 The chosen winner will get a $25 Amazon gift card and bragging rights for the year!
 
 ## Datasets
-**Coming November 1st!**
+Choose one of the following datasets and create a visualization that identifies one or more interesting elements of the data.   
+
+**Datasets Coming November 1st!**
