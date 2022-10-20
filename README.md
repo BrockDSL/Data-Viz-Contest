@@ -1,4 +1,4 @@
-![Splash image](DataVizContextSplash.png)
+
 
 The Brock University Digital Scholarship Lab invites you to show your skills in our annual Data Visualization contest!
   
