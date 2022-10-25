@@ -13,7 +13,7 @@ Submissions can be any type of data visualization you want!  Digital submissions
 
 If your submission is too large to send via e-mail or has special requirements, please contact [DSL@Brocku.ca](mailto:dsl@brocku.ca) and we will work out an appropriate submission method for you.
 
-This contest is only open to brock students.  Only submissions received from a brock email (@brocku.ca) will be considered for judging.
+This contest is only open to Brock students.  Only submissions received from a brock email (@brocku.ca) will be considered for judging.
 
 The chosen winner will get a $25 Amazon gift card and bragging rights for the year!
 
