@@ -17,7 +17,18 @@ This contest is only open to Brock students.  Only submissions received from a B
 
 The chosen winner will get a $25 Amazon gift card and bragging rights for the year!
 
-## Datasets
+## Datasets (Links to Data coming November 1st!)
 Choose one of the following datasets and create a visualization that identifies one or more interesting elements of the data.   
 
-**Datasets Coming November 1st!**
+Titanic Passenger Data  
+Dataset containing details about each passenger on the Titanic when it sank.  
+  
+Adidas Sales Data  
+Dataset containing Adidas sales data for the years 2020 and 2021.  
+  
+Niagara Census Data 2016  
+Census data variables from 2016 census joined with a census tract boundary file for the region of Niagara  
+  
+Enron Email Dataset  
+Dataset containing nearly 500,000 e-mails from Enron employees. This dataset is only recommended for participants who want a challenge and are comfortable working with tarred and gzipped files.  
+  
