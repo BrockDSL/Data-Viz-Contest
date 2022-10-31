@@ -17,18 +17,26 @@ This contest is only open to Brock students.  Only submissions received from a B
 
 The chosen winner will get a $25 Amazon gift card and bragging rights for the year!
 
-## Datasets (Links to Data coming November 1st!)
+## Datasets
 Choose one of the following datasets and create a visualization that identifies one or more interesting elements of the data.   
 
 **Titanic Passenger Data**  
 Dataset containing details about each passenger on the Titanic when it sank.  
-  
+[Click Here](https://BrockDSL.github.io/Data-Viz-Contest/TitanicPassengerData-Kaggle.csv) to download the dataset.  Details about the columns in the dataset can be found [Here](https://github.com/BrockDSL/Data-Viz-Contest/blob/main/TitanicColumnDetails.png).
+
 **Adidas Sales Data**  
 Dataset containing Adidas sales data for the years 2020 and 2021.  
+[Click Here](https://BrockDSL.github.io/Data-Viz-Contest/Adidas%20US%20Sales%20Datasets.csv) to download the dataset.
   
 **Niagara Census Data 2016**  
 Census data variables from 2016 census joined with a census tract boundary file for the region of Niagara  
+[Click Here](https://github.com/BrockDSL/Data-Viz-Contest/raw/main/NiagaraCensusDataViz.zip) to download the dataset.  
   
 **Enron Email Dataset**  
-Dataset containing nearly 500,000 e-mails from Enron employees. This dataset is only recommended for participants who want a challenge and are comfortable working with tarred and gzipped files.  
-  
+Dataset containing nearly 500,000 e-mails from Enron employees.  This dataset is only recommended for participants who want a challenge and are comfortable working with tarred and gzipped files.  
+Information about the data and the dataset itself can be found [Here](https://www.cs.cmu.edu/~./enron/)
+
+
+## Sources
+Titanic dataset obtained from [Kaggle.com](Kaggle.com)  
+Adidas Dataset obtained from [data.world](data.world)  
